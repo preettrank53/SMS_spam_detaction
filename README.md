@@ -179,10 +179,6 @@ Contributions are welcome.
    ```
 6. Open a Pull Request
 
-## License
-
-No license file is currently present in the repository. If you intend for others to reuse or modify this project, add a `LICENSE` file (for example, MIT, Apache-2.0, or GPL-3.0) and update this section accordingly.
-
 ## Author / Contact
 
 Maintained by **Preet Rank**.  
